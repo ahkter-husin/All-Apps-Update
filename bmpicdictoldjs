@@ -4,4 +4,4 @@
 "playstore": "com.ahkter.burmesepicturedictionary",
 "uninstall": false, 
 "what": { "model": [], "version": [], "all": true }, 
-"versionName": "1.0.0", "versionCode": 1, "force": true }
+"versionName": "1.0.3", "versionCode": 4, "force": true }
