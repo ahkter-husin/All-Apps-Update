@@ -1,0 +1,13 @@
+{ "title": "Rohingya Keyboard [v2.1.0]",
+
+"message": "Hello folks, I just added some new features in this app. So, Pls update.\n - added new ",
+
+"download": "https://www.ahkterhusin.blogspot.com/", 
+
+"playstore": "com.ahkter.rohingya_keyboard",
+
+"uninstall": false, 
+
+"what": { "model": [], "version": [], "all": true }, 
+
+"versionName": "2.1.0", "versionCode": 4, "force": true }
