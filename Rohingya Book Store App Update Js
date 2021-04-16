@@ -1,0 +1,13 @@
+{ "title": "Rohingya Book Store [v2.1.0]",
+
+"message": "Hello folks, I just fixed some bugs and updated some files. So, Pls update this app.\n - added new ",
+
+"download": "https://www.ahkterhusin.blogspot.com/", 
+
+"playstore": "com.ahkter.rohingya_bookstore",
+
+"uninstall": false, 
+
+"what": { "model": [], "version": [], "all": true }, 
+
+"versionName": "2.2.0", "versionCode": 4, "force": true }
